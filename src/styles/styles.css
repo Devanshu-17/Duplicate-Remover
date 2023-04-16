@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    font-family: sans-serif;
+    width: 100%;
+    min-height: 100vh;
+}
+
+li {
+    list-style: None;
+    padding: 1em;
+}
+
+p {
+    text-align: center;
+    padding: 5rem;
+    font-size: 2rem;
+}
+
+.info {
+    padding-top: 15vh;
+    color: black;
+    padding-left: 2rem;
+    font-family: 'Fira Code', monospace;
+}
+
+.info img {
+    height: 5rem;
+}
+
+h2 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    color: #ef3f36;
+}
+
+h3 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #022ecf;
+}
+
+a {
+    margin-top: 0.5em;
+    text-decoration: none;
+    color: #3c1c38;
+}
